@@ -1,11 +1,30 @@
-Copyright 2018 UAlberta CMPUT201
+CMPUT 201 Student Submission License
+Version 2.0
 
-Licensed under the UALBERTA-CMPUT201 License, Version 1.0 (the "License"). 
-You may not use this code except in compliance with the License.
-You may obtain a copy of the License at [https://github.com/CMPUT201/UALBERTA-CMPUT201License](https://github.com/CMPUT201/UALBERTA-CMPUT201License).
+Copyright 2018 <student name>
 
-Terms:
+Unauthorized redistribution is forbidden under all circumstances. Use of this
+software without explicit authorization from the author **and** the CMPUT 201
+Instructor is prohibited.
 
-- Any code developed under this license cannot be distributed without explicit permission from the course instructor
-- Any code developed under this license cannot be publicly posted in any website or forum
-- The instructor reserves the right to run plagiarism-detection tools on any code developed under this licsense, even beyond the duration of the course.
+This software was produced as a solution for an assignment or lab in the course
+CMPUT 201 - Practical Programming Methodology at the University of
+Alberta, Canada. This solution is confidential and remains confidential 
+after it is submitted for grading.
+
+Copying any part of this solution without including this copyright notice
+is illegal.
+
+If any portion of this software is included in a solution submitted for
+grading at an educational institution, the submitter will be subject to
+the plagiarism sanctions at that institution.
+
+This software cannot be publicly posted under any cirumstances, whether by
+the original student or by a third party.
+If this software is found in any public website or public repository, the
+person finding it is kindly requested to immediately report, including 
+the URL or other repository locating information, to the following email
+address:
+
+          nadi@ualberta.ca
+
