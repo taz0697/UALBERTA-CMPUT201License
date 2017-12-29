@@ -11,7 +11,7 @@ This software was produced as a solution for an assignment or lab in the course
 CMPUT 201 - Practical Programming Methodology at the University of
 Alberta, Canada. This solution is confidential and remains confidential 
 after it is submitted for grading. The course staff has the right to 
-run plagiarism-detection tools on any code developed under this licsense, 
+run plagiarism-detection tools on any code developed under this license, 
 even beyond the duration of the course.
 
 Copying any part of this solution without including this copyright notice
