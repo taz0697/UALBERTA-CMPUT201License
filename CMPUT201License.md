@@ -1,5 +1,5 @@
 CMPUT 201 Student Submission License
-Version 2.0
+Version 1.0
 
 Copyright 2018 \<student name\>
 
@@ -21,7 +21,7 @@ If any portion of this software is included in a solution submitted for
 grading at an educational institution, the submitter will be subject to
 the plagiarism sanctions at that institution.
 
-This software cannot be publicly posted under any cirumstances, whether by
+This software cannot be publicly posted under any circumstances, whether by
 the original student or by a third party.
 If this software is found in any public website or public repository, the
 person finding it is kindly requested to immediately report, including 
