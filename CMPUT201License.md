@@ -1,7 +1,7 @@
 CMPUT 201 Student Submission License
 Version 2.0
 
-Copyright 2021 \<student name\>
+Copyright 2023 \<student name\>
 
 Unauthorized redistribution is forbidden under all circumstances. Use of this
 software without explicit authorization from the author **and** the CMPUT 201
@@ -28,6 +28,5 @@ person finding it is kindly requested to immediately report, including
 the URL or other repository locating information, to the following email
 addresses:
 
-          nadi@ualberta.ca
-          ildar@ualberta.ca
+          hktang@ualberta.ca
 
